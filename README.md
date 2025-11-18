@@ -27,7 +27,6 @@ requirements.txt  # Python dependencies
 ```
 
 
-
 ##  Setup Instructions
 
 Follow the steps below to set up the environment.
@@ -71,6 +70,41 @@ Create a .env file in the project root (or copy .env.example):
 
 GOOGLE_PLACES_API_KEY=your_key_here
 ```
+
+##  Example Data Format
+
+```
+{
+  "results": [
+    {
+      "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY4",
+      "name": "Starbucks",
+      "formatted_address": "6133 University Blvd, Vancouver, BC",
+      "geometry": {
+        "location": {
+          "lat": 49.2668,
+          "lng": -123.2550
+        }
+      },
+      "rating": 4.2,
+      "user_ratings_total": 133,
+      "business_status": "OPERATIONAL",
+      "opening_hours": {
+        "open_now": true
+      },
+      "types": [
+        "cafe",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}
+```
+
 
 
 
