@@ -74,14 +74,14 @@ GOOGLE_PLACES_API_KEY=your_key_here
 
 
 
-🏗️ Data Flow
+##  🏗️ Data Flow
 
-Ingestion scripts in /scripts/ call the Google Places API
+Ingestion scripts in `/scripts/` call the Google Places API.
 
-Full API responses are saved in /data/raw/ with timestamps
+Full API responses are saved in `/data/raw/` with timestamps.
 
-Cleaning scripts transform and standardize the data
+Cleaning scripts transform and standardize the data.
 
-Cleaned datasets are stored in /data/clean/
+Cleaned datasets are stored in `/data/clean/`.
 
-Documentation (API notes, schema, etc.) is stored in /docs/
+Documentation (API notes, schema, etc.) is stored in `/docs/`.
