@@ -28,7 +28,7 @@ requirements.txt  # Python dependencies
 
 
 
-🔧 Setup Instructions
+##🔧 Setup Instructions
 
 Follow the steps below to set up the environment.
 
