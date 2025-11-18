@@ -33,33 +33,44 @@ requirements.txt  # Python dependencies
 Follow the steps below to set up the environment.
 
 1. Verify Python version
+```bash
 python --version
+```
 
-2. Clone the repository
+3. Clone the repository
+```bash
 git clone https://github.com/UBC-Live/Google-Places.git
 cd Google-Places
+```
 
-3. Create a virtual environment
-
+5. Create a virtual environment
+```bash
 macOS / Linux
 
 python3 -m venv .venv
 source .venv/bin/activate
+```
 
 
 Windows (PowerShell)
 
+```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
+```
 
 4. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
-5. Add your environment variables
+6. Add your environment variables
 
+```
 Create a .env file in the project root (or copy .env.example):
 
 GOOGLE_PLACES_API_KEY=your_key_here
+```
 
 
 
