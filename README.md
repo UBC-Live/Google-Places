@@ -25,3 +25,52 @@ docs/             # Documentation and notes
 requirements.txt  # Python dependencies
 .gitignore        # Ignore rules (env files, data folders, cache)
 ```
+
+
+
+🔧 Setup Instructions
+
+Follow the steps below to set up the environment.
+
+1. Verify Python version
+python --version
+
+2. Clone the repository
+git clone https://github.com/UBC-Live/Google-Places.git
+cd Google-Places
+
+3. Create a virtual environment
+
+macOS / Linux
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+
+Windows (PowerShell)
+
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+
+4. Install dependencies
+pip install -r requirements.txt
+
+5. Add your environment variables
+
+Create a .env file in the project root (or copy .env.example):
+
+GOOGLE_PLACES_API_KEY=your_key_here
+
+
+
+🏗️ Data Flow
+
+Ingestion scripts in /scripts/ call the Google Places API
+
+Full API responses are saved in /data/raw/ with timestamps
+
+Cleaning scripts transform and standardize the data
+
+Cleaned datasets are stored in /data/clean/
+
+Documentation (API notes, schema, etc.) is stored in /docs/
