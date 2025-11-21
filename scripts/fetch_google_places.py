@@ -10,8 +10,8 @@ load_dotenv()
 
 API_KEY = os.getenv("GOOGLE_PLACES_API_KEY")
 LOCATION = os.getenv("GOOGLE_PLACES_LOCATION")      # "49.2606,-123.2460" for UBC
-RADIUS   = os.getenv("GOOGLE_PLACES_RADIUS")        # "500"
-TYPE     = os.getenv("GOOGLE_PLACES_TYPE", "cafe")  # default
+RADIUS = os.getenv("GOOGLE_PLACES_RADIUS")          # "500"
+TYPE = os.getenv("GOOGLE_PLACES_TYPE", "cafe")      # default
 
 if not API_KEY:
     raise ValueError("Missing GOOGLE_PLACES_API_KEY in .env")
