@@ -47,6 +47,17 @@ def fetch_google_places():
 
         data = response.json()
 
+        # Save snapshot of the response JSON
+        snapshot_dir = "data/sample"
+        os.makedirs(snapshot_dir, exist_ok=True)
+
+        snapshot_path = os.path.join(snapshot_dir, f"{ts}.json")
+
+        with open(snapshot_path, "w") as f:
+            json.dump(data, f, indent=2)
+
+        print(f"[{ts}] 📁 Saved snapshot to {snapshot_path}")
+
         # Create directory if missing
         os.makedirs(OUTPUT_DIR, exist_ok=True)
 
