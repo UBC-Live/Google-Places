@@ -1,0 +1,589 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.26127539999999,
+          "lng": -123.2466127
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.26271108029149,
+            "lng": -123.2453147697085
+          },
+          "southwest": {
+            "lat": 49.26001311970849,
+            "lng": -123.2480127302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-221-6434",
+      "name": "Starbucks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105738985182376075607\">Starbucks</a>"
+          ],
+          "photo_reference": "AWn5SU6JlI3CN5DopUahuhx86cRYelfht6hbwls1hQ5mQQo8SyCA0BMS_HpTwI3TILh26Eq5CvQDjUb90XbMdBtfF2PpQ7jfxsjRiRHDOpZQipJF3TmMguohHeRnFX5sBH_THSl1cdPaLxmMYjL5mLOFf3hOFD2B5nSxVct1tHHlCOBtJwMDgOJDUEuK4URMCEAAkFcB4l9NZE1YzVwJksFLDq2jBI_v38ZAddLSQj8Bnn3CJKdE43g1m7nqlRugKkNk64FbXVf4vh_lOtXKhQcWvlMkN6UXQKPXXa2RLCUHq-g2DzfnGs5L45fMvQT2lUAi7rvTyX5azrA",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJkawlZslyhlQRLnI-LMR1EZY",
+      "plus_code": {
+        "compound_code": "7Q63+G9 Vancouver, BC, Canada",
+        "global_code": "84XR7Q63+G9"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJkawlZslyhlQRLnI-LMR1EZY",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 352,
+      "vicinity": "Technical Enterprise Facility, 6190 Agronomy Road #3, Vancouver"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.2601989,
+          "lng": -123.2483783
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.2614169802915,
+            "lng": -123.2469324697085
+          },
+          "southwest": {
+            "lat": 49.25871901970851,
+            "lng": -123.2496304302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-822-1953",
+      "name": "Tim Hortons",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101926803905654773143\">Sefa Bulut</a>"
+          ],
+          "photo_reference": "AWn5SU5SW-ww1OCfwzWLErZHoF5BmatRk_GQTwbh6JCKgyS6Ypmki0uI6aOFubiQSiMxSUDAMNp9L-xJXJodPbTpVpRdzg93h4ajdSCfoxpQD5q7r8Ks-uP-oCoNe7g0lDYrnSoeA4omYMOJ-C_5KQaAu4ZvDbfeoNFcYXRvS4UudHo6SF1vUq4Q_wmwgCYKRbZcxoar6VdhpC5bpHIhCXJ1oGzPfa8jCbr4aoj5E6Y36bQBl8w6XcoSEa_1K6ProUcM2CRutTG7zV7JiZKnNVqqbjrQfcjc4s4HAVfJE104GwbxGsoTieKRV1qmuy48R7_par4zgrKtXGLgP2h9PB6ZgXhNGdZfk1f-GmzMroae4QsdDqqtCwIP0BbmAUNn4eTYHKANNT1Ygy0mSW-6RQ6kTGIbW3U8zewgRhDTxS-4QhmbKWGXNCpIpUwubJQw3TXj6su0BHVvF5N2iBNLw0tcUqy6vJwkkG6SNBEOnx4Ga5HiNb-ZUxLphsT3HvFf-s-vVCfUfXFuSAWWosUqp-_9IDcTHkMTr4Zx4nRUeFkbLui74sh4uSQ2ir86ifBIP-Q94qW6Vnlxa4MiLjlAPZBPp9n-x2VdrDj5G-0JqOhXacYLbeKAzaGJ-1TfLbLJ0Vch",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJ5UuDwMtyhlQRa2nfU9eAqRQ",
+      "plus_code": {
+        "compound_code": "7Q62+3J Vancouver, BC, Canada",
+        "global_code": "84XR7Q62+3J"
+      },
+      "price_level": 1,
+      "rating": 3,
+      "reference": "ChIJ5UuDwMtyhlQRa2nfU9eAqRQ",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 504,
+      "vicinity": "2424 Main Mall Forestry, Vancouver"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.2610566,
+          "lng": -123.2512168
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.2624165302915,
+            "lng": -123.2499982197085
+          },
+          "southwest": {
+            "lat": 49.2597185697085,
+            "lng": -123.2526961802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-822-4651",
+      "name": "Agora Eats Caf\u00e9",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104071490795176398564\">Michael Bilek</a>"
+          ],
+          "photo_reference": "AWn5SU7ZBxB6exFFllCnRTInhhVQRSNepMXdu2u7AcI8SEZ06qfEi7z7KaiI7ps1v3K7h6ixj7l6B5MrBHCvrNTpqD0Vvxy32fc-4Lo5AL7gaoKQHMY5HEBdu3wqdTled33urt-HnuS3syPMPmLF_uzo9-HTokI8XqZuVlMgjoI-DnH5Y2ngqoumhCWDvcWTKIYwC7hCIWdqUsZwRiziqLMMjBzOmMkOCbcWFatWkLZ33hS4tep8sdO7FZ605G1H0uIHUZx_TPY_iZ-hS4xN30F-enptIRJu9D9bJHFy_cFCP_5Wb3sdDitLAndjgc9dcIUF2IWzj41EWT3126Q07MduCfkpOBygvesx4pzSGKNFSFCjApZ_wj_CHaNRAC4Lcu2yngOuruvE8RIeYGoXvWBWwXysMQ9F-0jjdhoK34qbPrg2pK9ZOOSEEkEJMMn71UBzo2GySOQIvXe7yiFbO_4N2OARHUFYLx1uZKiZh8RViIQkdytZiTGvsKdrhJqsjJWYRF3x_Gvv46o8K7htN3JHpSEXSh5QD41Ar0wwuZefO4F8uZ8ykBWF7ECVTM4351eLoF8munl1A-g9LAc7GWcO8BVXB2uwz13ZTfESVxbukPxxwxczpUFdjPc00_5TVYlckj7Nzu5q",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJY2y1UspyhlQR8r7UmkpY1LI",
+      "plus_code": {
+        "compound_code": "7P6X+CG Vancouver, BC, Canada",
+        "global_code": "84XR7P6X+CG"
+      },
+      "price_level": 1,
+      "rating": 4.7,
+      "reference": "ChIJY2y1UspyhlQR8r7UmkpY1LI",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 65,
+      "vicinity": "2357 Main Mall, Vancouver"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.2588643,
+          "lng": -123.2480615
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.2603938802915,
+            "lng": -123.2469426197085
+          },
+          "southwest": {
+            "lat": 49.2576959197085,
+            "lng": -123.2496405802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-568-8893",
+      "name": "Bean Around The World Coffee House & Bistro",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107224704707108177908\">Bean Around The World Coffee House &amp; Bistro</a>"
+          ],
+          "photo_reference": "AWn5SU6Cs98tWZHbFxHxgLMZLoEzV5vE1X3r3ZU0bfgICGulHZBJk9R_6-UK63kQvFjyv34ETq2xkde3vI_HY5ENPBtr2PX7E8zCDWok3HcLDK7tR6EoW8iUbOpO55vCokJMt2_9MkzAOOGEj_t3wQvqfX5-uD7XHm91Lakl3XLtYpUESMHElHbnRGF55MCMcRFEy3HAxPPxzA3XJbtWRmyznRKzAZOZ0ymx1fdExilEbdHaYXecREFwmtvxDKOTts0-O0-Y9l7xGy2Nw_4TDjS7X_YZDfggJ8vkI571Dn5ABgN24QTwm8sS3q-jtNtM8eiNAAkMsbflLpk",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJlQE0iMtyhlQRwEDZARYfGzc",
+      "plus_code": {
+        "compound_code": "7Q52+GQ Vancouver, BC, Canada",
+        "global_code": "84XR7Q52+GQ"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJlQE0iMtyhlQRwEDZARYfGzc",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 468,
+      "vicinity": "6308 Thunderbird Boulevard, Vancouver"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.26222,
+          "lng": -123.24993
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.2633168802915,
+            "lng": -123.24916495
+          },
+          "southwest": {
+            "lat": 49.2606189197085,
+            "lng": -123.25222515
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-827-5779",
+      "name": "Starbucks",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102462251080380303076\">Starbucks</a>"
+          ],
+          "photo_reference": "AWn5SU7dQ6D5QVtPFjpEBRgbeovK92cI9Z_iERVqYeteccg09c5-BlAIjcVnr-XxECQSK_yqLcEtJdAuJYM53-UZwP20gsyOvDkbE6RL7E0y2vV9ouzXttG8aB1if2pQD3ulXiy-APVJP7__O5INb1y3Z2LO7O3mhzOYEaiNLa4bUOZDYqVmOgU4eqLBdKTV19m_LeHJLriJcJbpsyMh_m2eY2jDFPoNbbSTfrHuZJnPlvuBO5T9onveAjAxdhRy40SKj2DwUoLTHu9s4SxshO4gVdzlfaXHLaqgESNhaRYiHzuRK7uR4iDmrur5J9huVF9r1eqhOxDrxTA",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJG1K6JcpyhlQRJgKamiMM1Ow",
+      "plus_code": {
+        "compound_code": "7Q62+V2 Vancouver, BC, Canada",
+        "global_code": "84XR7Q62+V2"
+      },
+      "price_level": 2,
+      "rating": 3.4,
+      "reference": "ChIJG1K6JcpyhlQRJgKamiMM1Ow",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 84,
+      "vicinity": "Fred Kaiser Building, 2332 Main Mall, Vancouver"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.26227730000001,
+          "lng": -123.2493537
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.26345168029151,
+            "lng": -123.2477302197085
+          },
+          "southwest": {
+            "lat": 49.26075371970851,
+            "lng": -123.2504281802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "EUS Eatery",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJmwk7wZtzhlQRdEE8U1LWUqk",
+      "plus_code": {
+        "compound_code": "7Q62+W7 Vancouver, BC, Canada",
+        "global_code": "84XR7Q62+W7"
+      },
+      "rating": 5,
+      "reference": "ChIJmwk7wZtzhlQRdEE8U1LWUqk",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "UBC Engineering Courtyard, 2335 Engineering Road, Vancouver"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.2604468,
+          "lng": -123.2512275
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.2615921302915,
+            "lng": -123.2496972697085
+          },
+          "southwest": {
+            "lat": 49.2588941697085,
+            "lng": -123.2523952302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-827-2031",
+      "name": "Hero Coffee + Market",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114026405803838060174\">Hero Coffee + Market</a>"
+          ],
+          "photo_reference": "AWn5SU4faJtbwFTOO-Z59sRuxG2WRct8WTRuWDAd5JtK92wjQJrH3R3WwgHVQ3o1Kuzj-QmXNS6iqkJs_u17kvGL0gugoCHa4ct9Ik63Pj61daTM1PZcPYFn0NbhWA9lNupqbbngHSe4YqNYNq-sGdtrVWm8Z19Et6_zBgoNLqlgYPqOe4qsCT4BmlAddnHOr79WCnBGOck8CsoBRdoiJC3CI5GyNKFioVpHf2_-8DvbdbFtL4sHtp_aYrX0mykT6SMz1iHh5Q_F9ILXy9l4ZfJ9Ha9UGlJPIBz5eP_EhJy-1-_xW77KeEts9yG1fmJxMNCz8jydhey6HZA",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJFVr1q8tyhlQR4_OuH6usgh0",
+      "plus_code": {
+        "compound_code": "7P6X+5G Vancouver, BC, Canada",
+        "global_code": "84XR7P6X+5G"
+      },
+      "rating": 4.1,
+      "reference": "ChIJFVr1q8tyhlQR4_OuH6usgh0",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 53,
+      "vicinity": "6363 Agronomy Road, Vancouver"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.2646721,
+          "lng": -123.2459365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.2660665302915,
+            "lng": -123.2446229697085
+          },
+          "southwest": {
+            "lat": 49.2633685697085,
+            "lng": -123.2473209302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-822-7534",
+      "name": "UBC Corner Cafe",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102837053549641110364\">Ria Stone</a>"
+          ],
+          "photo_reference": "AWn5SU6sEDoV2GersStvSbK7wyePgQAKKHUCwwIh6S6jkQ95BTExmeHFgdwPQWBP48Wspq6PDbxNsRUixTfeSu9xFuo4qF2UmqcnRqkEBUIoD6gIbmP5uubafHC-QFiQGq2R5Rd04fg81v69OO2XOvtmjvqVOGU-tgz3XVzZK3rGDaC4Yk4365ryrt8WgusCx4b3rQjEmB7TDAyBOILfoDN6bhfRrzuLqgkjpzl55BJqMdazjSxIhntJ55FXhEQj3fAUmaebImR8L4bGBQqVDMWFeUIdlyhKHcYjd7IJTTSU-lUeV7XJp5i9bW5bnrFjUD-hUCGQn3UGwrAIN24FM9eebmogH2ABUvmeaQxMBzqeqTw56SK95YAWBBBJ6KuqSxrgHxHs2I1k3HOnM9kApucVN0cbdaUods3TMrGMX_13cM3M1qK9BsVzNWzRpE4-g4061Dv5kVJeZE_HpodQjUKByZgnQCswGHAsHnXUuLfMULYTNkDvgQv5cM3zz0wvLZ9075sg4EUhZhpVaRcSvjkE-Iz17jUyzOEYLN4BYw1_z3hErRb2r7-AM5UmsMHiuayDv-oFp4kQkOCYMq4weHIjAsCtrwVpWmd5TKHr5CoJsYdxzd7Tf-RJCgMvidCLlm3-",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJvxmfOshyhlQR606Apn_VSHI",
+      "plus_code": {
+        "compound_code": "7Q73+VJ Vancouver, BC, Canada",
+        "global_code": "84XR7Q73+VJ"
+      },
+      "rating": 4,
+      "reference": "ChIJvxmfOshyhlQR606Apn_VSHI",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "2211 Wesbrook Mall, Vancouver"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.2646451,
+          "lng": -123.2445755
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.26605308029149,
+            "lng": -123.2431991697085
+          },
+          "southwest": {
+            "lat": 49.26335511970849,
+            "lng": -123.2458971302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-822-2348",
+      "name": "Caf\u00e9 Ami",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113378498865855157824\">Caf\u00e9 Ami</a>"
+          ],
+          "photo_reference": "AWn5SU6LxjIi9LSv9tdWCxqptmHOY5z0M8MupD6A-Nw_HvgSFkoPVP4EuriExi00oYw-56O7h4blcz6we5FrSSW9MjDNzF-67J3S8iTnSuHj-Cdi9E_rM9dUxz7fO-W-tiXreDY_a2atj7GtgS_ydeb5tubglkO4pvMDoYaX62YLAf3Bl0y9u0njf26GXsmNfrDeutyeIQgNhqI6x47lC9G3LTv7x9y6phe-6pnK9wMNN9OSAjJsHjXALiHus0n_P3Uc-Vec1Q_4oJDkxkmPXOo-Yv2TbpZNwgsd8p2KL7vI3DLzHzfsAa3hlOhxh45vQt36pF_4ex14gLM",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJha21ashyhlQRIO7jkpVB6qI",
+      "plus_code": {
+        "compound_code": "7Q74+V5 Vancouver, BC, Canada",
+        "global_code": "84XR7Q74+V5"
+      },
+      "rating": 3.7,
+      "reference": "ChIJha21ashyhlQRIO7jkpVB6qI",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 50,
+      "vicinity": "Djavad Mowafaghian Centre for Brain Health, 2215 Wesbrook Mall, Vancouver"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 49.26326479999999,
+          "lng": -123.2510159
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.26486263029149,
+            "lng": -123.2498153197085
+          },
+          "southwest": {
+            "lat": 49.26216466970849,
+            "lng": -123.2525132802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-827-4814",
+      "name": "The Niche Caf\u00e9",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104071490795176398564\">Michael Bilek</a>"
+          ],
+          "photo_reference": "AWn5SU6VU5E05iXLP_OJ00aSxxrmNj_voilYII8HKrAar4qucmY6QEeAsE-Ykyrcdv4IsUweJ4cHtNpiQSM_9Sn3hbMFTz3Gv6zEzRIwH01QtOtjgF3ni40t2Y9AHcxl-wIJ9kr6TJtikP7jBQP22dq9wKbxBJr0raYKsrym0rFVCALOpAvb-oxXsvL_zXrPAuwBMtop0oQmIuiAMfl5y8UKCs-Z-ojXHLTkCL0MNJi3-XlSeK7r9pyXkkNs39nDNr-94qUymXru-EVyYdrE1AM36H3Y57T0gqrUk4UHJEkvi5PtnlkqfjrY6Snw8RqjtBUHdeDBg-nXMYmwafk3COjdenq2oi_DzUeQ5WxnUI-mFtWqYkX1sFk65fWgjykWbohosUBBnDh03T_vIwcx2AUYFcJHLbF_Ny6gN20WCCybm3690SjiG2e4ZRicei1hPAWGl1lMkK7HZmnTk0YgY86UQe4ElRwWITnNvNa3QFSSSw3S2j4GI-SyM_D1lT1kLrICiNXhh3Dq2VXtXxAZ4M1j5LQU23yMt85TEc7bt9exEytLtjpVGjaypUWLq4JFFMHNuQc0iu6yCxyacMuZeR_hytBEKuI22rGR4_JR-Jkb-_WKsuHTwJdXaJNR1BY-e6sxMPFnVw",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJaZxNB8pyhlQRJ_1wwkOaFP0",
+      "plus_code": {
+        "compound_code": "7P7X+8H Vancouver, BC, Canada",
+        "global_code": "84XR7P7X+8H"
+      },
+      "rating": 3.5,
+      "reference": "ChIJaZxNB8pyhlQRJ_1wwkOaFP0",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "2212 Main Mall, Vancouver"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 49.2627099,
+          "lng": -123.2518444
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 49.2635455302915,
+            "lng": -123.2508583197085
+          },
+          "southwest": {
+            "lat": 49.2608475697085,
+            "lng": -123.2535562802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 604-827-1525",
+      "name": "Fooood",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112852268919308165759\">Steven Lo</a>"
+          ],
+          "photo_reference": "AWn5SU4JfPRVl50IMkw86-ejq_fy_PaSQE-ZMzHb7z_ipK_isVnVqWFjIz1mpag-kMF1HOuy1ELYsz9x4d0NuUvhD__Bj6I4iQSvzT2ps0S-VaE2FvXHLP6I33rtMchmyXU3BsH_Tjp3MByIk-8Z2NqSn17v0qGMokSoairLfrextO8lwqUMR5XOUasSel7yKEJb2JnKuvzltdNqymgCD-YL4iyOETYkS1_4R3DQLrUygjopwhisA3Fl-GpW6euLRgBNNIcIxkz_d9wxhZkxonnkestvL49wySs39yMpGLHpNEok6f_0Tjuqu4loOHRyHYleIEsuLVWG8h9MdvHW3-Z7ChzP7u3d64IDPA1aeurI9qIOM8LMrbOnusLSpZJwC1JnIo_PLWAMdmMTJg8AgWu0qHtReTeEc9_xL-Kr24gqU_LPpuHeYXgCyXwbYn10O7qXwWJvVIW7sw0cZYQWM1ncdfq6jTa2aaSy-AL9hyr0WWfQgWEJhjBzzJhavM81SQyS-V8z6jXsh_pFmK3KMqla-lW-CRv5RT79Zs3_RTsxjAwTkERyQFBKRkQgIjkXg5UkBxaI5T60A6eE81u0kEVwhffGTncDj-Mk2-aC2vOyJe7Omenm2paACWR1PlWBKh3e3Qb4LsFT",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ29waPbpzhlQRvYDDFJrycWc",
+      "plus_code": {
+        "compound_code": "7P7X+37 Vancouver, BC, Canada",
+        "global_code": "84XR7P7X+37"
+      },
+      "rating": 5,
+      "reference": "ChIJ29waPbpzhlQRvYDDFJrycWc",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "Earth Sciences Building, 6339 Stores Road, Vancouver"
+    }
+  ],
+  "status": "OK"
+}
