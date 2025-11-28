@@ -29,8 +29,6 @@ def load_latest_raw():
     latest = max(files)  # newest file (based on timestamp in filename)
     filepath = os.path.join(RAW_DIR, latest)
 
-    print(f"[INFO] Loading latest raw file: {latest}")
-
     with open(filepath, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -100,13 +98,8 @@ def save_clean(df):
     output_path = os.path.join(CLEAN_DIR, "places_clean.json")
     df.to_json(output_path, orient="records", indent=2)
 
-    print(f"[INFO] Saved cleaned data → {output_path}")
-
 
 if __name__ == "__main__":
     raw = load_latest_raw()
     df = clean_places(raw)
     save_clean(df)
-
-    print("\n[PREVIEW] Cleaned DataFrame:")
-    print(df.head())
